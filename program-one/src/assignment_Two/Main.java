@@ -12,7 +12,7 @@ public class Main {
         int choice;
 
         System.out.printf("%24s\n","UR - CST, ITyr4 DATA-STRUCTURE ASSIGNMENT TWO");
-        System.out.println("============================================");
+        System.out.println("========================================");
 
         while(!quit){
             printMainMenu();
@@ -39,7 +39,7 @@ public class Main {
 
     public static void printMainMenu(){
         System.out.printf("%24s\n" +
-        "=========================================\n" +
+        "========================================\n" +
         "Please select an option:\n" +
         "1 - Adding Matrix\n" +
         "2 - Multiplying Matrix\n" +
