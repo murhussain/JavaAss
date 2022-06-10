@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 class MUlMatrix
 {
-    public static void main(String args[])
+    public static void MatrixMultiplication()
     {
         int r1, r2, c1, c2, i, j, k, sum;
         Scanner in = new Scanner(System.in);

@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 class AddMatrix
 {
-    public static void main(String args[])
+    public static void MatrixAddition()
     {
         int row, col,i,j;
         Scanner in = new Scanner(System.in);
